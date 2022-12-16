@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(221,160,221);
+    padding: 20px;
+    font-size: 30px;
+
+}
+
+p{
+    color:rgb(0, 6, 10);
+    padding: 6px;
+    font-size: 17px;
+}
